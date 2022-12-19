@@ -1,0 +1,2418 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+
+          <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KZ493PK');</script>
+      <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.caa.com/sportstalent/hockey" />
+<link rel="alternate" hreflang="en" href="https://www.caa.com/sportstalent/hockey" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="fabcf816-57bf-40a4-b46e-fbe8e8888ac8"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<link rel="shortcut icon" href="/themes/custom/caa/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.caa.com/sportstalent/hockey" />
+
+    <title>Hockey | CAA</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_XK0xw5LwZelOGGpmF_GxcIOzGFVl3tHHVOwmj2yxu4o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_hS8MlDO-FAL11woaLDkBo4p5CQGXo4afQcGlrtf9H0Q.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_NLD5UbnuV0gugBA-jekdwhJwL_TOG1O02JwgJVsX-lQ.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/276","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"azure_appinsights":{"instrumentationKey":"bd88541d-a1c6-4dd2-bf8b-64263436a487"},"user":{"uid":0,"permissionsHash":"66bebea6829df865aa945e802c0018d8692d1de6d202a0188e4cbd76d12278b1"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_A5nG9HgWS3Y-SjI27fZBw2lJ00KJDsNZjSg-vWesZko.js"></script>
+<script src="/modules/contrib/azure_appinsights/dist/js/azai.min.js?v=1.x"></script>
+<script src="https://use.typekit.net/gce7xzt.js"></script>
+<script src="/sites/default/files/js/js_g74xuDbN8b5rWKHEDaWhLXtJ9EN90wn9RqnSZViQfMQ.js"></script>
+
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  </head>
+          
+      
+          
+  <body class="page-sportstalent-hockey section-sportstalent role--anonymous loading-scene with-subnav no-sidebar">
+
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ493PK"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <!-- ______________________ HEADER _______________________ -->
+  
+  
+<header id="header" class="site-header "> 
+  <div class="site-header-container">
+    
+      <a href="/" title="" rel="home" class="logo" aria-role="button" aria-label="Home">
+      <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 149.78"><title>caa</title><path id="path2830" class="cls-1" d="M145.17,159.64c-1.81,0-3.64.05-5.45.18a74.92,74.92,0,1,0,69.18,113.61h63.51l13.28,32.45h27.86l13.28-32.45H390l13.5,32.45H430l-59.86-144H346L299.65,275.32,253.24,161.85H229.12l-38.17,91.06c-12.55,29.93-46.7,39.51-71.25,25.34a50.45,50.45,0,0,1,50.41-87.41,51,51,0,0,1,4.55,3l10.53-22.51c-.92-.59-1.89-1.12-2.84-1.67A74.19,74.19,0,0,0,145.17,159.64Zm95.92,37.22,21.29,52.08H219.44Zm117.07,0,21.65,52.08H336.87Z" transform="translate(-70 -159.64)"/></svg>
+    </a>
+  
+  
+  <a href="javascript:;" id="nav-trigger" class="nav-trigger " data-target="nav-overlay" tabindex="0" title="Open" aria-label="Menu" role="button" aria-controls="navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+  </a>
+  </div>
+
+</header>
+<!-- /#header -->
+
+<!-- Search overlay -->
+
+
+<!-- Menu overlay -->
+<div class="nav-overlay">
+  <div class="menu-container">
+
+    <nav class="global-nav">
+          
+
+
+        <ul>
+          <li>
+        <a href="javascript:void(0);" title="For Talent" target="_self" class=" " >
+         For Talent 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/sportstalent/baseball" title="Baseball" target="_self" class="linkTo " >
+         Baseball 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/basketball" title="Basketball" target="_self" class="linkTo " >
+         Basketball 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/caa-base" title="CAA Base" target="_self" class="linkTo " >
+         CAA Base 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caa-china" title="CAA China" target="_self" class="linkTo " >
+         CAA China 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/client-business-ventures" title="Client Business Ventures" target="_self" class="linkTo long-link" >
+         Client Business Ventures 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/coaches" title="Coaching" target="_self" class="linkTo " >
+         Coaching 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Entertainment Talent" target="_self" class=" " >
+         Entertainment Talent 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Comedy Touring" target="_self" class="linkTo " >
+         Comedy Touring 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/digital-media" title="Digital Media" target="_blank" class="linkTo " >
+         Digital Media 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/entertainment-endorsements-voiceovers" title="Endorsements &amp; Voiceovers" target="_self" class="linkTo long-link" >
+         Endorsements &amp; Voiceovers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/entertainment-talent/fashion" title="Fashion" target="_blank" class="linkTo " >
+         Fashion 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="http://www.caa-gbg.com/" title="Licensing" target="_blank" class="linkTo " >
+         Licensing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/motion-pictures" title="Motion Pictures" target="_self" class="linkTo " >
+         Motion Pictures 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Music" target="_self" class="linkTo " >
+         Music 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/publishing" title="Publishing" target="_self" class="linkTo " >
+         Publishing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caaspeakers" title="Speakers" target="_self" class="linkTo " >
+         Speakers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/television" title="Television" target="_self" class="linkTo " >
+         Television 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/theatre" title="Theatre" target="_self" class="linkTo " >
+         Theatre 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/video-games" title="Video Games" target="_self" class="linkTo " >
+         Video Games 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/brands/brand-studio" title="Brand Studio" target="_blank" class="linkTo " >
+         Brand Studio 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/sportstalent/football" title="Football" target="_self" class="linkTo " >
+         Football 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/hockey" title="Hockey" target="_self" class="linkTo " >
+         Hockey 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Live Event Booking" target="_self" class=" " >
+         Live Event Booking 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Music and Comedy Touring" target="_self" class="linkTo long-link" >
+         Music and Comedy Touring 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caaspeakers" title="Speakers" target="_self" class="linkTo " >
+         Speakers 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/sportstalent/sports-endorsements" title="Sports Endorsements" target="_self" class="linkTo " >
+         Sports Endorsements 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/foundation" title="CAA Foundation" target="_self" class="linkTo " >
+         CAA Foundation 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="For Brands" target="_self" class=" " >
+         For Brands 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/brand-consulting" title="Brand Consulting" target="_self" class="linkTo " >
+         Brand Consulting 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caabrandmanagement" title="CAA Brand Management" target="_self" class="linkTo " >
+         CAA Brand Management 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caa-china" title="CAA China" target="_self" class="linkTo " >
+         CAA China 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/digital-media" title="Digital Media" target="_blank" class="linkTo " >
+         Digital Media 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Partnership Sales" target="_self" class=" " >
+         Partnership Sales 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/entertainment-endorsements-voiceovers" title="Entertainment Endorsements &amp; Voiceovers" target="_self" class="linkTo long-link" >
+         Entertainment Endorsements &amp; Voiceovers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/music-brand-partnerships" title="Music Brand Partnerships" target="_self" class="linkTo long-link" >
+         Music Brand Partnerships 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/sports-endorsements" title="Sports Endorsements" target="_self" class="linkTo " >
+         Sports Endorsements 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-property-sales" title="Sports Property Sales" target="_self" class="linkTo " >
+         Sports Property Sales 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="https://www.caa.com/brands/caa-brand-studio" title="CAA Brand Studio" target="_blank" class="linkTo " >
+         CAA Brand Studio 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="For Enterprise" target="_self" class=" " >
+         For Enterprise 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/caa-icon" title="CAA ICON" target="_self" class="linkTo " >
+         CAA ICON 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/EBG" title="EBG" target="_self" class="linkTo " >
+         EBG 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/evolution-media-capital" title="Evolution Media Capital" target="_self" class="linkTo long-link" >
+         Evolution Media Capital 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/executive-search" title="Executive Search" target="_self" class="linkTo " >
+         Executive Search 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-licensing" title="Sports Licensing" target="_self" class="linkTo " >
+         Sports Licensing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-media-rights" title="Sports Media Rights" target="_self" class="linkTo " >
+         Sports Media Rights 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-property-sales" title="Sports Property Sales" target="_self" class="linkTo " >
+         Sports Property Sales 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+
+        </nav>
+      <div class="overlay-footer">
+        <div class="homepage-ft">
+          
+
+<nav>
+        <ul>
+          <li>
+        <a href="/about-us" title="About">
+         About 
+        </a>
+
+              </li>
+          <li>
+        <a href="/careers" title="Careers">
+         Careers 
+        </a>
+
+              </li>
+          <li>
+        <a href="/contact-0" title="Contact">
+         Contact 
+        </a>
+
+              </li>
+        </ul>
+  
+
+</nav>
+
+        </div>
+      </div>
+  </div>
+
+
+  <div class="overlay-footer">
+    
+      </div>
+
+</div><!-- https://www.caa.com/sportstalent/hockey  -->
+
+<div class="loading"></div>
+
+  <!-- ______________________ MAIN _______________________ -->
+  <div id="main">
+      <section id="content">
+
+        <div id="content-header">
+
+          
+
+          
+          
+          
+        </div><!-- /#content-header -->
+
+        <div id="content-area">
+            <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<article role="article" about="/sportstalent/hockey" class="node">
+
+  
+  <div class="content">
+    
+      <div>
+              <div>
+<section class="hero-container full_vh var1
+bg-black" id="">
+
+	<div class="hero-text-container vertical-align ">
+		<div class="gutter-container">
+
+							<header>
+					<div class="h8" data-aos="fade-up" data-aos-once="true" data-aos-delay="600" ></div>
+				</header>
+			
+			
+							<h5 class="" data-aos="fade-up" data-aos-delay="600" data-aos-once="true" >
+            <div>Creating opportunities on and off the ice.</div>
+      </h5>
+			
+			
+							<h1 class="					headline-lrg
+								 " data-aos="fade-up" data-aos-offset="0" data-aos-delay="600" data-aos-once="true" >
+            <div>CAA Hockey</div>
+      </h1>
+			
+			
+		</div>
+	</div>
+		<div class="preloader">
+						<img src="/sites/default/files/styles/thumbnail/public/2022-03/CAA-Hockey-HeroDesktop_0.png?itok=SeyPW0fu" data-mobile="" alt="" role="presentation">
+	</div>
+		<div class="hero-image-container hero-mask single-hero-image">
+					<img src="/sites/default/files/styles/widescreen_landscape/public/2022-03/CAA-Hockey-HeroDesktop_0.png?itok=ZbqfSWT3" data-desktop="/sites/default/files/styles/widescreen_landscape/public/2022-03/CAA-Hockey-HeroDesktop_0.png?itok=ZbqfSWT3" data-mobile="" alt=" " role="presentation" />
+			</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text text-module pad-tb bg-white   col-2" id="">
+	<div class="gutter-container">
+				<header>
+				<div class="h8" data-aos="fade-up">
+            <div>About CAA Hockey</div>
+      </div>
+		</header>
+				<div class="content-container">
+			<div class="offset-article">
+									<h4 data-aos="fade-up" data-aos-delay="100">
+            <div>Committed to our clients&#039; success.</div>
+      </h4>
+				
+				<div class="jumbo-text-body">
+										<div data-aos="fade-up" data-aos-delay="100">
+						
+            <div><p>CAA Hockey is a full-service agency that sees the big picture. Our outstanding track record negotiating contracts on behalf of the game's most exciting talent is matched by our expertise and uniquely powerful resources in endorsements, player development, philanthropy, event management, and social media strategy.</p>
+
+<p>We recognize that lasting professional, financial and personal success depends on the strength of our client relationships. We are closely connected with all of our players and their families to understand their individual ambitions both on and off the ice, and develop the right strategies to realize them. And as part of CAA, the world's leading entertainment and sports agency, we are positioned to provide our clients meaningful connections and opportunities beyond traditional athlete representation.<br />
+ </p>
+</div>
+      
+					</div>
+																			</div>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text text-module service-offerings pad-tb bg-white col-2" id="">
+	<div class="gutter-container">
+				<header>
+				<div class="h8" data-aos="fade-up">
+            <div>What We Do</div>
+       </div>
+		</header>
+				<div class="content-container">
+			<div class="offset-article">
+									<h4 data-aos="fade-up">
+            <div>A 360-degree approach.</div>
+      </h4>
+				
+				<div class="jumbo-text-body">
+											<div data-aos="fade-up">
+															<h6 class="list-title" >Contract Negotiation</h6>
+							
+															<div class="list-body-text"><p>Forbes named CAA Hockey "the most valuable hockey practice in the world."&nbsp;We take great pride in representing the most prestigious talent in the game, and our ability to advocate for them at the negotiating table is&nbsp;unsurpassed.</p>
+</div>
+													</div>
+											<div data-aos="fade-up">
+															<h6 class="list-title" >Off the Ice</h6>
+							
+															<div class="list-body-text"><p>Our clients benefit from both the experience and industry reputation of the CAA Hockey team, and the entire CAA organization. We have formidable connections with NHL and team sponsors across all markets, and have solidified strong relationships with industry-leading brands and executives. CAA’s unparalleled resources help us not only create opportunities for our hockey clients in&nbsp;endorsements, pop culture, philanthropy, broadcasting,&nbsp;and beyond, but also provide a level of service for all off-ice matters that is second to none.</p>
+</div>
+													</div>
+											<div data-aos="fade-up">
+															<h6 class="list-title" >Player Development</h6>
+							
+															<div class="list-body-text"><p>We have staff dedicated to working with our younger players and their families, both as advisors and agents, to implement individual development strategies. Our approach is holistic: we advise and assist with training, skills development, nutrition and mental preparation, and we educate families on their options and the best path to success, no matter the desired outcome.</p>
+
+<p>The cornerstones of our development group are the annual CAA Hockey Summer Camps, where invited players experience an intense and in-depth week of on- and off-ice training that focuses on all aspects of their development and preparation. They leave with new friendships and a sharpened hockey sense, ready to take on the upcoming season.&nbsp;</p>
+</div>
+													</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+              <div>
+
+
+<section class="image-grid talent-photo pad-tb bg-white" id="">
+	<div class="gutter-container">
+
+							<div class="row">
+					<div class="col-md-12">
+							<h6 data-aos="fade-up" data-aos-offset="0">
+            <div>CAA Hockey clients include many of the best players in the game:</div>
+      </h6>
+					</div>
+				</div>
+						<div class="images-container">
+				<div class="row">
+					<div class="targetrow">
+						<!-- Loop on entries -->
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Mathew Barzal</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Hockey-MathewBarzal.jpg?itok=FsykKgrZ" width="500" height="500" alt="Matthew-Barzal-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Mathew Barzal</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two-time NHL All-Star, Calder Memorial Trophy winner, World Junior championship silver medalist; first-round draft pick </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Matty Beniers</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-04/Matty%20Beniers%20cropped.jpg?itok=Qg1d5BYT" width="500" height="515" alt="CAA-Hockey-Matty-Beniers" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Matty Beniers</div>
+									<hr />
+                    										<div class="talent-bio"><p>World Junior Championship Gold Medalist; No. 2 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jamie Benn</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-04/Jamie%20Benn%20copy.jpg?itok=wiNeCHSW" width="500" height="500" alt="Jamie Benn " typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jamie Benn</div>
+									<hr />
+                    										<div class="talent-bio"><p></p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Cole Caufield</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/Cole%20Caufield%20cropped_1.jpeg?itok=ffWbOFVG" width="500" height="500" alt="Cole-Caufield-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Cole Caufield</div>
+									<hr />
+                    										<div class="talent-bio"><p>Hobey Baker Award Winner; World Junior Championship Gold Medalist; first-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Sidney Crosby </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Hockey-SidneyCrosby.jpg?itok=R8lPV-hy" width="500" height="500" alt="Sidney-Crosby-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Sidney Crosby </div>
+									<hr />
+                    										<div class="talent-bio"><p>Four-time Stanley Cup champion; two-time Olympic gold medalist; three-time NHL All-Star; two-time winner of the Conn Smythe, Art Ross and Hart Memorial trophies; No. 1 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Pierre-Luc Dubois</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-03/PL%20Dubois_0.jpeg?itok=71Isqvjz" width="500" height="500" alt="P-L-Dubois-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Pierre-Luc Dubois</div>
+									<hr />
+                    										<div class="talent-bio"><p>World Championship Silver Medalist; No. 3 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Matt Duchene</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-03/Matt%20Duchene%20cropped.jpg?itok=FltraHhf" width="500" height="499" alt="Matt-Duchene-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Matt Duchene</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two-time NHL All-Star; Olympic gold medalist; No. 3 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jack Eichel</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/Jack%20Eichel%20Vegas%20Knights%20cropped.jpg?itok=KyyAvrm3" width="500" height="496" alt="CAA-Hockey-Jack Eichel" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jack Eichel</div>
+									<hr />
+                    										<div class="talent-bio"><p>Three-time NHL All-Star, World Championship Bronze Medalist, 2nd overall Draft Pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Filip Forsberg</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-02/Filip%20Forsberg_0.jpg?itok=5LR3E70j" width="500" height="538" alt="Fillip-Forsberg-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Filip Forsberg</div>
+									<hr />
+                    										<div class="talent-bio"><p>NHL All-Star; World Junior Championship gold medalist; first-round draft pick </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Claude Giroux</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-04/Claude%20Giroux%20Panthers%20cropped.jpg?h=26822e51&amp;itok=9r4c7IBG" width="500" height="500" alt="Claude-Giroux-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Claude Giroux</div>
+									<hr />
+                    										<div class="talent-bio"><p>Five-time NHL All-Star; first-round draft pick </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jack Hughes</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-03/Jack%20Hughes%20cropped.jpg?itok=lJUhZvML" width="500" height="500" alt="Jack-Hughes-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jack Hughes</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 1 overall draft pick, World Junior Championship silver medal</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Quinn Hughes</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-03/Quinn%20Hughes.jpg?itok=dXWkJoqN" width="500" height="519" alt="Quinn-Hughes-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Quinn Hughes</div>
+									<hr />
+                    										<div class="talent-bio"><p></p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Seth Jones</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/Seth%20Jones%20cropped_0.jpg?itok=oEKcwOoZ" width="500" height="500" alt="Seth-Jones-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Seth Jones</div>
+									<hr />
+                    										<div class="talent-bio"><p>Four-time NHL All-Star; World Junior Championship gold medalist; No. 4 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Patrick Kane </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-03/Patrick%20Kane%20cropped_0.jpg?itok=rvzMf5FV" width="500" height="500" alt="CAA-Hockey-Patrick-Kane" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Patrick Kane </div>
+									<hr />
+                    										<div class="talent-bio"><p>Three-time Stanley Cup champion; seven-time NHL All-Star; Conn Smythe Trophy winner; Hart Memorial Trophy winner; Art Ross Trophy winner; Olympic silver medalist; No. 1 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Anze Kopitar</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-02/Anze%20Kopitar_0.jpg?itok=qfzKcwU7" width="500" height="524" alt="Anze-Kopitar--CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Anze Kopitar</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two-time Stanley Cup champion; five-time NHL All-Star; Frank J. Selke Trophy winner; Lady Byng Memorial Trophy winner; first-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Dylan Larkin</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-06/Dylan%20Larkin%20cropped_0.jpg?itok=-wtbk0_-" width="500" height="500" alt="CAA-Hockey-Dylan-Larkin" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Dylan Larkin</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two time NHL All-Star; First-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Nathan MacKinnon</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-02/Nathan%20MacKinnon_0.jpg?itok=NUINsbK0" width="500" height="549" alt="Nathan-MacKinnon-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Nathan MacKinnon</div>
+									<hr />
+                    										<div class="talent-bio"><p>NHL All-Star; Calder Memorial Trophy winner; No. 1 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Evgeni Malkin</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-02/Evgeni%20Malkin_0.jpg?itok=q2Y8mAsu" width="475" height="532" alt="Evgeni-Malkin-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Evgeni Malkin</div>
+									<hr />
+                    										<div class="talent-bio"><p>Three-time Stanley Cup champion; four-time NHL All-Star; Conn Smythe Trophy winner; Hart Memorial Trophy winner; two-time Art Ross Trophy winner; No. 2 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jonathan Marchessault</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Hockey-JonathanMarchessault.jpg?itok=VcJZ6J1m" width="500" height="500" alt="Jonathan-Marchessalut-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jonathan Marchessault</div>
+									<hr />
+                    										<div class="talent-bio"><p>World Championship silver medalist</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>David Pastrnak</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Hockey-DavidPastrnak.jpg?itok=rlssxZFt" width="500" height="500" alt="David-Pasternak-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">David Pastrnak</div>
+									<hr />
+                    										<div class="talent-bio"><p>First-round draft pick, two-time NHL All-Star</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Elias Pettersson</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-03/elias%202.jpeg?itok=uZgR4a5_" width="500" height="500" alt="Elias-Pettersson-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Elias Pettersson</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two time NHL All Star, Calder Memorial Trophy winner, World Championship gold medalist, World Junior Championship silver medalist; first-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Owen Power</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-04/Owen%20Power%20cropped.jpg?itok=E87rss9T" width="500" height="500" alt="CAA-Hockey-Owen-Power" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Owen Power</div>
+									<hr />
+                    										<div class="talent-bio"><p>World Championship Gold Medalist; No. 1 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Morgan Rielly </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Hockey-MorganRielly.jpg?itok=fpnG2D5r" width="500" height="500" alt="Morgan-Rielly-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Morgan Rielly </div>
+									<hr />
+                    										<div class="talent-bio"><p>World Championship gold medalist; first-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>John Tavares</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-11/John%20Tavares_0.jpg?h=ab9bf229&amp;itok=UzS-JgfL" width="340" height="340" alt="John-Tavares-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">John Tavares</div>
+									<hr />
+                    										<div class="talent-bio"><p>Four-time NHL All-Star; Olympic gold medalist; No. 1 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jonathan Toews </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2019-02/Jonathan%20Toews_0.jpg?itok=dLe3lmCh" width="500" height="514" alt="Jonathan-Toews-CAA-Hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jonathan Toews </div>
+									<hr />
+                    										<div class="talent-bio"><p>Three-time Stanley Cup champion; two-time Olympic gold medalist; four-time NHL All-Star; Conn Smythe Trophy winner; No. 3 overall draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Trevor Zegras </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/Trevor%20Zegras%20copy.jpeg?itok=WN5mTM79" width="500" height="500" alt="Trevor-Zegras-CAA-hockey" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Trevor Zegras </div>
+									<hr />
+                    										<div class="talent-bio"><p>World Junior Championship Gold Medalist, first-round draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+											</div>
+				</div>
+			</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text tout-module pad-tb bg-white col-1" id="">
+	<div class="gutter-container">
+					<header>
+				<div class="h8" data-aos="fade-up"></div>
+			</header>
+				<div class="content-container">
+			<div class="offset-article">
+							<div class="jumbo-text-text-container">
+											<h4 data-aos="fade-up">NHL Client Roster 
+												</h4>
+					
+					<div class="jumbo-text-body">
+												<div  data-aos="fade-up">
+							
+						</div>
+						
+													<a href="/caa-nhl-roster" class="btn "   data-aos="fade-up">
+															<span class="label">See Our NHL Client Roster
+															</span>
+								
+
+															<span class="chev right">
+									<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 185.3 185.3" style="enable-background:new 0 0 185.3 185.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M0,51.7c0-2.7,1-5.5,3.1-7.6c4.2-4.2,11-4.2,15.2,0l74.3,74.4L167,44.1c4.2-4.2,11-4.2,15.2,0
+			c4.2,4.2,4.2,11,0,15.2l-81.9,81.9c-4.2,4.2-11,4.2-15.2,0L3.1,59.3C1,57.2,0,54.5,0,51.7z"/>
+	</g>
+</g>
+</svg>
+									
+								</span>
+							
+							</a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+</div>
+              <div>
+
+
+	
+
+<section class="pull-stats jumbo-text pad-tb bg-white" id="2606">
+	<div class="gutter-container">
+					<header>
+					<div class="h8" data-aos="fade">
+            <div>CAA Hockey by the Numbers</div>
+      </div>
+			</header>
+		
+		<div class="content-container">
+	<div class="mainstat var1">
+		<div class="row ">
+
+			<div class="col-md-5 col-sm-5 col-xs-12">
+									<h4 data-aos="fade">
+            <div>Our clients&#039; success speaks for itself.</div>
+      </h4>
+							</div>
+
+			<div class="col-md-7 col-sm-7 col-xs-12">
+				
+				
+								  	<div class="cell" data-aos="fade">
+						<h5 data-aos="fade">Number of first-round draft picks</h5>
+
+						<h6 >
+														<div id="odometer" class="odometer" data-stat="102">0</div>
+													</h6>
+					</div>
+								  	<div class="cell" data-aos="fade">
+						<h5 data-aos="fade">Number of All-Star selections</h5>
+
+						<h6 >
+														<div id="odometer" class="odometer" data-stat="114">0</div>
+													</h6>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div class="content-container">
+	<div class="bulletlist var1">
+		<div class="row">
+			<div class="col-sm-5 col-md-5">
+				<h3 data-aos="fade">Outstanding Achievements</h3>
+			</div>
+			<div class="col-sm-7 col-md-7">
+				<ul>
+																		<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="4">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Players in the 2018-2019 Stanley Cup Finals</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="7">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Art Ross Trophies</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="6">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Calder Trophies</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="6">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Ted Lindsay Awards</span>
+							</li>
+															</ul>
+			</div>
+		</div>
+	</div>
+</div>
+		
+</div>
+</section>
+</div>
+              <div>
+<section class="image-grid image-grid-row pad-tb bg-white" id="">
+	<div class="gutter-container">
+			
+			<div class="images-container">
+				
+      <div>
+              <div>  <div class="paragraph paragraph--type--image-grid-4-col paragraph--view-mode--default">
+          
+            <div><!-- Row type variation 4 column -->
+<div class="row square">
+	<div class="col-md-3 col-sm-3 col-xs-3" data-aos="fade-up">
+		<div class="ig-image-container">
+			  <img src="/sites/default/files/styles/square/public/2020-03/IMG_9687_0.jpg?itok=Ui4QLUA7" width="500" height="499" alt="CAA-HockeyCamp-SummerTraining-1" typeof="foaf:Image" />
+
+
+
+		</div>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-3" data-aos="fade-up">
+		<div class="ig-image-container">
+			  <img src="/sites/default/files/styles/square/public/2020-03/IMG_1240.jpg?itok=WLLHRaVN" width="500" height="500" alt="CAA-HockeyCamp-SummerTraining-2" typeof="foaf:Image" />
+
+
+
+		</div>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-3" data-aos="fade-up">
+		<div class="ig-image-container">
+			  <img src="/sites/default/files/styles/square/public/2020-03/IMG_9974-2.jpg?itok=Rc2YBppY" width="500" height="500" alt="CAA-HockeyCamp-SummerTraining-3" typeof="foaf:Image" />
+
+
+
+		</div>
+	</div>
+	<div class="col-md-3 col-sm-3 col-xs-3" data-aos="fade-up">
+		<div class="ig-image-container">
+			  <img src="/sites/default/files/styles/square/public/2020-03/IMG_2642.jpg?itok=k0K_xbck" width="500" height="494" alt="CAA-HockeyCamp-SummerTraining-4" typeof="foaf:Image" />
+
+
+
+		</div>
+	</div>
+	
+</div></div>
+      
+      </div>
+</div>
+          </div>
+  
+			</div>
+	</div>
+</section>
+</div>
+              <div>
+
+
+<section class="image-grid talent-photo pad-tb bg-white" id="">
+	<div class="gutter-container">
+
+							<div class="row">
+					<div class="col-md-12">
+							<h6 data-aos="fade-up" data-aos-offset="0">
+            <div>The CAA Hockey team is the best in the business.</div>
+      </h6>
+					</div>
+				</div>
+						<div class="images-container">
+				<div class="row">
+					<div class="targetrow">
+						<!-- Loop on entries -->
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Pat Brisson</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Pat%20Brisson.jpg?h=36cca2d0&amp;itok=EH6RRWTj" width="500" height="500" alt="CAA-Hockey-Agent-Pat-Brisson" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Pat Brisson</div>
+									<hr />
+                    										<div class="talent-bio"><p>After a successful junior career and playing professionally in Europe, Pat became an agent in 1993, representing his friend Luc Robitaille. He has guided the careers of many of the world’s best players, negotiating landmark contracts and endorsement deals. With his partner JP Barry, Pat has built the premier hockey agency in the business.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>JP Barry</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/JP%20Barry.jpg?h=4d5e09a0&amp;itok=yhL2082h" width="500" height="500" alt="CAA-Hockey-Agent-JP-Barry" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">JP Barry</div>
+									<hr />
+                    										<div class="talent-bio"><p>As former legal counsel to the NHLPA, JP helped shape the legal landscape for NHL players. Since becoming an agent, JP has helped establish CAA Hockey as the most progressive and dynamic player agency in the industry. JP is one of the most respected agents in the business by both management and players alike.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jen Kardosh</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Jen%20Kardosh.jpg?h=d32db8f7&amp;itok=A44clUYa" width="500" height="500" alt="CAA-Hockey-Jen-Kardosh" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jen Kardosh</div>
+									<hr />
+                    										<div class="talent-bio"><p>Jen is currently Head of Operations, Marketing, and Client Management. Alongside her management role, she focuses on curating clients’ personal brands through partnerships, social media strategy and public relations. She came to CAA from the University of Michigan where she was a member of the women&#039;s D1 rowing team.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Ales Volek</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/ales%20volek.jpg?itok=WvtWMa4I" width="221" height="221" alt="CAA-Hockey-Ales-Volek" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Ales Volek</div>
+									<hr />
+                    										<div class="talent-bio"><p>Ales, a former scout for the Ottawa Senators, joined CAA in 2007. Based in Prague, Ales recruits and manages careers of the most elite players hailing from the Czech Republic. He has built a successful client roster representing more than 80 players across Europe and the NHL. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Andre Ruel</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Andre%20Ruel%20_0.jpg?itok=q6EmftOv" width="500" height="500" alt="CAA-Hockey-Andre-Ruel" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Andre Ruel</div>
+									<hr />
+                    										<div class="talent-bio"><p>Andre, former head coach and general manager in the QMJHL, has been involved at the highest levels of hockey for more than 40 years. Andre is a trusted advisor, guiding the careers of players from Quebec and Atlantic Canada.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Bayne Pettinger</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Bayne%20Pettinger.jpg?itok=Bdc5utnn" width="500" height="500" alt="CAA-Hockey-Bayne-Pettinger" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Bayne Pettinger</div>
+									<hr />
+                    										<div class="talent-bio"><p>Bayne brings a wealth of experience to CAA from his time at Hockey Canada, where he led team services for many international tournaments. He provides support both on and off the ice, and many players across the NHL lean on Bayne for guidance throughout their careers.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Byron Ritchie</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Byron%20Ritchie.jpg?itok=prw9OZC3" width="500" height="500" alt="CAA-Hockey-Byron-Ritchie" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Byron Ritchie</div>
+									<hr />
+                    										<div class="talent-bio"><p>Byron comes to CAA after a successful 21-year professional career. Playing across the NHL, AHL, and Europe, he brings invaluable experience and knowledge to CAA. He leads recruiting and player development in Western Canada.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Chris LaCombe</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Chris%20LaCombe.jpg?itok=d35mH4h-" width="500" height="500" alt="CAA-Hockey-Chris-LaCombe" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Chris LaCombe</div>
+									<hr />
+                    										<div class="talent-bio"><p>Chris, an NHLPA-certified agent, came to CAA after coaching Bantam hockey in Minnesota and scouting in the USHL. Chris spends his time developing relationships with USHL and NCAA prospects and their families, as well as client management.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Claes Elefalk</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Claes%20Elefalk.jpg?h=95bee19a&amp;itok=ojcbrKC0" width="500" height="500" alt="CAA-Hockey-Claes-Elefalk" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Claes Elefalk</div>
+									<hr />
+                    										<div class="talent-bio"><p>Claes is a trusted and respected advisor in both NHL and European hockey circles, guiding players in their transition between North America and Europe. He is a strong player advocate, with two decades of experience in recruitment, management, and contract negotiations on behalf of Swedish clients.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Colby Denesuk</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/F8C934CC-6AD6-01A5-2D08-28273A42A844.jpeg?itok=aUwlnZFU" width="500" height="500" alt="CAA-Hockey-Colby-Denesuk" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Colby Denesuk</div>
+									<hr />
+                    										<div class="talent-bio"><p>Colby is a graduate of Rhodes College. After beginning his CAA career in the Los Angeles mailroom, he transitioned to the hockey division, assisting Pat Brisson and coordinating day-to-day operations for our global staff. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Dave Nicoletti</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Dave%20Nicoletti%20Headshot.png?h=2623983b&amp;itok=oREkxX-N" width="500" height="500" alt="CAA-Hockey-Dave-Nicoletti" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Dave Nicoletti</div>
+									<hr />
+                    										<div class="talent-bio"><p>With an MS in Sport Management from Texas A&amp;M, Dave has been involved in Toronto minor hockey for more than a decade. He played in Europe, winning the Austrian League title and representing Italy at the World Championships. He develops and manages clients, specializing in injury prevention and rehabilitation.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Dee Rizzo</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Rizz.jpg?h=6f1c01ee&amp;itok=1QzXRZk-" width="500" height="500" alt="CAA-Hockey-Dee-Rizzo" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Dee Rizzo</div>
+									<hr />
+                    										<div class="talent-bio"><p>Rizz, an NHLPA-certified agent, graduated from Michigan State, where he won a national championship as a member of their hockey team. His primary roles include client management for many of our NHL clients and recruiting young American prospects.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Derek McKenna</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Derek%20Bio%20Pic%20-%20Color.png?itok=z-m2PbPr" width="500" height="500" alt="CAA-Hockey-Derek-McKenna" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Derek McKenna</div>
+									<hr />
+                    										<div class="talent-bio"><p>Derek, a graduate of Rensselaer Polytechnic Institute (RPI), joined CAA Hockey after working for the Colorado Avalanche and CAA’s Global Client Strategy division. Derek works on behalf of our NHL clients sourcing marketing deals and architecting entrepreneurial opportunities.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Dominic Ricard</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Dominic%20Ricard.jpg?itok=Tud4EESs" width="500" height="505" alt="CAA-Hockey-Dominic-Ricard" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Dominic Ricard</div>
+									<hr />
+                    										<div class="talent-bio"><p>Dominic is a former QMJHL coach and general manager. During his time with the Val D’or Foreurs and Drummondville Voltigeurs, he helped both teams to President’s Cup victories. He was also named GM of the year two years in a row. At CAA he recruits and develops players from Quebec and Atlantic Canada. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Dominique DiDia</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Dominique%20Didia%20Headshot_0.jpg?itok=Tqy2Pv1Y" width="500" height="500" alt="CAA-Hockey-Dominique-Didia" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Dominique DiDia</div>
+									<hr />
+                    										<div class="talent-bio"><p>Dominique is a client manager working with players on their marketing, branding, and social media strategy. Previously, she worked for the LA Kings, specializing in marketing and social media. She was captain of the women’s ice hockey team at Trinity College and stays involved on the ice with local youth hockey programs.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Hannah Lawrie</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Hannah%20Lawrie.jpg?itok=k-ApB3U6" width="500" height="500" alt="CAA-Hockey-Hannah-Lawrie" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Hannah Lawrie</div>
+									<hr />
+                    										<div class="talent-bio"><p>Hannah holds a Master of Professional Communication from Royal Roads University. In addition to her work on the client marketing and management team, she coordinates events including the NHL Draft and multiple prospect development camps. Previously, Hannah worked in media relations for Olympic Broadcasting Services. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jake Lublin</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/image001.jpg?itok=WWPJODsC" width="349" height="349" alt="CAA-Hockey-Jake-Lublin" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jake Lublin</div>
+									<hr />
+                    										<div class="talent-bio"><p>Jake, a graduate of Adelphi University, began his career in the CAA Speakers department. He works on behalf of our NHL and NIL clients sourcing marketing opportunities and maintains clients’ personal and professional information for the division.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Janne Lahti</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Janne%20lahti%20headshot.jpg?itok=ZzkJrXNe" width="500" height="500" alt="CAA-Hockey-Janne-Lathi" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Janne Lahti</div>
+									<hr />
+                    										<div class="talent-bio"><p>Janne worked for the Finnish National team and became a Finnish certified agent nearly a decade ago, before joining CAA Hockey in 2017. He recruits and guides the careers of Finnish-born players across Europe and North America.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jim Hughes</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Jim%20Hughes.jpg?itok=upiRkZBn" width="500" height="500" alt="CAA-Hockey-Jim-Hughes" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jim Hughes</div>
+									<hr />
+                    										<div class="talent-bio"><p>Jim, the former Director of Player Development for the Toronto Maple Leafs, joined CAA in 2016. Prior to CAA, he worked for the Bruins, Marlies, and Monarchs, among others. As our Director of Player Development, he oversees the development of all clients, ranging from young prospects to AHL and NHL clients. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jim Nice</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Jim%20Nice.jpg?itok=F8RFIzJc" width="500" height="500" alt="CAA-Hockey-Jim-Nice" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jim Nice</div>
+									<hr />
+                    										<div class="talent-bio"><p>Jim, an NHLPA-certified agent, has spent the past two-plus decades working on all aspects of client representation. His primary roles include contract negotiation, preparation of arbitration cases, and medical and insurance issues. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Johan Altberg</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/745B9E1D-4430-010D-B655-DB18F800EF50.jpeg?itok=POBJ3u0Y" width="465" height="465" alt="CAA-Hockey-Johan-Altberg" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Johan Altberg</div>
+									<hr />
+                    										<div class="talent-bio"><p>Johan, a Swedish certified agent, joined CAA Hockey in February 2021 after 10 years of experience as an agent. His primary roles include recruiting Swedish players and client management.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Laura Neary</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Laura%20Neary.JPG?itok=eHM5eKT1" width="500" height="509" alt="CAA-Hockey-Laura-Neary" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Laura Neary</div>
+									<hr />
+                    										<div class="talent-bio"><p>Laura is CAA Hockey’s General Counsel. A California licensed attorney since 2007 and an NHLPA certified player agent since 2010, she advises on business and legal affairs, focusing on off-ice endorsements, insurance, immigration, intellectual property and NIL matters. Laura is a member of the Sports Lawyers Association.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Mark Mackay</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Mark%20Mackay.jpg?itok=TSYT0Pbu" width="500" height="500" alt="CAA-Hockey-Mark-Mackay" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Mark Mackay</div>
+									<hr />
+                    										<div class="talent-bio"><p>Mark has been an NHLPA-certified agent since 2002, following a successful 17-year career in Germany, which included appearances in two winter Olympics. He deals in contract negotiations, client management and recruiting.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Matt Mackay</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Matt%20Mackay.jpg?itok=qhEZRe2k" width="500" height="500" alt="CAA-Hockey-Matt-Mackay" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Matt Mackay</div>
+									<hr />
+                    										<div class="talent-bio"><p>Matt is a graduate of the Western Hockey League with prior experience in player development. He went on to have a successful eight-year professional hockey career in Germany. Matt deals with on and off-ice player development, client management, and recruiting.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Matt Williams</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/Matt%20Williams.jpg?itok=PPfwsRx9" width="500" height="500" alt="CAA-Hockey-Matt-Williams" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Matt Williams</div>
+									<hr />
+                    										<div class="talent-bio"><p>Matt is an NHLPA-certified agent and graduate of Western Michigan University. He joined CAA in 2018 after working for USA Hockey’s National Team Development program as the Brendan Burke intern. With a focus on recruiting and player development, he also assists with NHL player management and contract negotiations.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Max Giese</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-09/thumbnail_image001.jpg?itok=b4XSrWI8" width="239" height="239" alt="CAA-Hockey-Max-Giese" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Max Giese</div>
+									<hr />
+                    										<div class="talent-bio"><p>Max, a graduate of UW-Whitewater, joined CAA after ten years of NHL scouting experience with the Winnipeg Jets.  He previously worked as Director of Player Personnel for the Chicago Steel of the USHL and the Janesville Jets of the NAHL.  His primary role includes player recruitment and development. </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Peter Werner</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/peter%20werner%20headshot.jpg?itok=LsvfWB7f" width="284" height="284" alt="CAA-Hockey-Peter-Werner" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Peter Werner</div>
+									<hr />
+                    										<div class="talent-bio"><p>Peter, an NHLPA-certified agent, has earned the respect of both players and club executives for his passion and dedication to his clients. Peter recruits and manages our Swedish clients.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Wes Bergevin</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-03/thumbnailIMG95621_02032022094418_large.jpeg?itok=IbnSS48J" width="500" height="500" alt="CAA-Hockey-Wes-Bergevin" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Wes Bergevin</div>
+									<hr />
+                    										<div class="talent-bio"><p>Wes is a graduate of The Pennsylvania State University where he majored in communications and business management. During his time at PSU, he was also a member of the men’s soccer team. He assists Jen Kardosh with all aspects of client management and division operations.</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+											</div>
+				</div>
+			</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="social-follow-us pad-tb bg-red" id="hockey-follow-us">
+	<div class="gutter-container">
+
+		<div class="content-container">
+	
+			<div class="social-container">
+				<span class="follow-us" data-aos="fade">Follow us:</span>
+				<ul>
+					
+											<li class="twitter-size" data-aos="fade"><a href="https://twitter.com/CAAHockey" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><title>Twitter</title>
+<style type="text/css">
+	.twitter{fill:#FFFFFF;}
+</style>
+<g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="twitter social-icon" d="M26,0A26,26,0,1,0,52,26,26,26,0,0,0,26,0ZM36.34,20.7q0,.34,0,.69A15.17,15.17,0,0,1,13,34.17a10.83,10.83,0,0,0,1.27.07A10.7,10.7,0,0,0,20.9,32a5.34,5.34,0,0,1-5-3.7,5.35,5.35,0,0,0,2.41-.09A5.34,5.34,0,0,1,14,22.93v-.07a5.31,5.31,0,0,0,2.42.67,5.34,5.34,0,0,1-1.65-7.12A15.14,15.14,0,0,0,25.8,22a5.34,5.34,0,0,1,9.09-4.87,10.68,10.68,0,0,0,3.39-1.29,5.35,5.35,0,0,1-2.35,3A10.66,10.66,0,0,0,39,17.94,10.84,10.84,0,0,1,36.34,20.7Z"/></g></g></svg>						</a></li>
+					
+											<li class="instagram-size" data-aos="fade"><a href="https://www.instagram.com/caahockey/" target="_blank"> 
+							<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 53.5 52.9" style="enable-background:new 0 0 53.5 52.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<circle class="st0 social-icon" cx="26.8" cy="26.5" r="4.3"/>
+	<path class="st0 social-icon" d="M36.9,18.8c-0.2-0.6-0.5-1-1-1.5s-0.9-0.7-1.5-1c-0.5-0.2-1.1-0.4-2.4-0.4c-1.4-0.1-1.8-0.1-5.3-0.1
+		s-3.9,0-5.3,0.1c-1.3,0.1-2,0.3-2.4,0.4c-0.6,0.2-1,0.5-1.5,1s-0.7,0.9-1,1.5c-0.2,0.5-0.4,1.1-0.4,2.4C16,22.6,16,23,16,26.5
+		s0,3.9,0.1,5.3c0.1,1.3,0.3,2,0.4,2.4c0.2,0.6,0.5,1,1,1.5s0.9,0.7,1.5,1c0.5,0.2,1.1,0.4,2.4,0.4c1.4,0.1,1.8,0.1,5.3,0.1
+		s3.9,0,5.3-0.1c1.3-0.1,2-0.3,2.4-0.4c0.6-0.2,1-0.5,1.5-1s0.7-0.9,1-1.5c0.2-0.5,0.4-1.1,0.4-2.4c0.1-1.4,0.1-1.8,0.1-5.3
+		s0-3.9-0.1-5.3C37.3,20,37.1,19.3,36.9,18.8z M26.8,33.2c-3.7,0-6.7-3-6.7-6.7s3-6.7,6.7-6.7s6.7,3,6.7,6.7S30.5,33.2,26.8,33.2z
+		 M33.7,21.1c-0.9,0-1.6-0.7-1.6-1.6s0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6S34.6,21.1,33.7,21.1z"/>
+	<path class="st0 social-icon" d="M26.7,0.5c-14.4,0-26,11.6-26,26s11.6,26,26,26s26-11.6,26-26S41.1,0.5,26.7,0.5z M39.7,31.9
+		c-0.1,1.4-0.3,2.3-0.6,3.2c-0.3,0.9-0.8,1.6-1.5,2.3s-1.5,1.2-2.3,1.5s-1.8,0.5-3.2,0.6c-1.4,0.1-1.8,0.1-5.4,0.1
+		c-3.5,0-4,0-5.4-0.1s-2.3-0.3-3.2-0.6c-0.9-0.3-1.6-0.8-2.3-1.5s-1.2-1.5-1.5-2.3s-0.5-1.8-0.6-3.2c-0.1-1.4-0.1-1.8-0.1-5.4
+		c0-3.5,0-4,0.1-5.4s0.3-2.3,0.6-3.2c0.3-0.9,0.8-1.6,1.5-2.3s1.5-1.2,2.3-1.5s1.8-0.5,3.2-0.6c1.4-0.1,1.8-0.1,5.4-0.1
+		c3.5,0,4,0,5.4,0.1c1.4,0.1,2.3,0.3,3.2,0.6s1.6,0.8,2.3,1.5s1.2,1.5,1.5,2.3s0.5,1.8,0.6,3.2c0.1,1.4,0.1,1.8,0.1,5.4
+		C39.8,30,39.8,30.5,39.7,31.9z"/>
+</g>
+</svg>
+						</a></li>
+					
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</section></div>
+          </div>
+  
+  </div><!-- /.content -->
+
+      <div class="links">
+      
+    </div><!-- /.links -->
+  
+</article><!-- /.node -->
+
+  </div>
+
+        </div>
+
+      </section><!-- /#content -->
+  </div><!-- /#main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+<footer id="footer">
+  <div class="content-container">
+    <div class="gutter-container">
+      
+      <div class="expanded-footer">
+        <h6>
+											Group listings
+									</h6>
+
+        <div class="footer-link-containers">
+          
+        </div>
+
+      </div>
+
+      <div class="footer-standard">
+				<div class="footer-logo-column">
+					<a href="/" title="" rel="home" class="logo">
+						<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 149.78">
+							<title>caa</title>
+							<path id="path2830" class="cls-1"
+								d="M145.17,159.64c-1.81,0-3.64.05-5.45.18a74.92,74.92,0,1,0,69.18,113.61h63.51l13.28,32.45h27.86l13.28-32.45H390l13.5,32.45H430l-59.86-144H346L299.65,275.32,253.24,161.85H229.12l-38.17,91.06c-12.55,29.93-46.7,39.51-71.25,25.34a50.45,50.45,0,0,1,50.41-87.41,51,51,0,0,1,4.55,3l10.53-22.51c-.92-.59-1.89-1.12-2.84-1.67A74.19,74.19,0,0,0,145.17,159.64Zm95.92,37.22,21.29,52.08H219.44Zm117.07,0,21.65,52.08H336.87Z"
+								transform="translate(-70 -159.64)" />
+						</svg>
+					</a>
+				</div>
+				        
+
+<nav class="overlay-footer">
+        <ul>
+                <li>
+        <a href="/about-us" title="About Us" >
+          About Us
+        </a>
+
+              </li>
+                <li>
+        <a href="/social-responsibility" title="Social Responsibility" >
+          Social Responsibility
+        </a>
+
+              </li>
+                <li>
+        <a href="/careers" title="Careers" >
+          Careers
+        </a>
+
+              </li>
+                <li>
+        <a href="/foundation" title="Foundation" >
+          Foundation
+        </a>
+
+              </li>
+                <li>
+        <a href="/privacy-policy" title="Privacy" >
+          Privacy
+        </a>
+
+              </li>
+                <li>
+        <a href="/terms-of-use" title="Terms" >
+          Terms
+        </a>
+
+              </li>
+                <li>
+        <a href="https://www.caa.com/legal/client-privacy-notice" title="Client Privacy Notice" >
+          Client Privacy Notice
+        </a>
+
+              </li>
+                <li>
+        <a href="https://www.caa.com/newsroom" title="Newsroom" >
+          Newsroom
+        </a>
+
+              </li>
+                <li>
+        <a href="/contact-us" title="Contact Us" >
+          Contact Us
+        </a>
+
+              </li>
+        </ul>
+  
+
+</nav>
+
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+</div><!-- /.layout-container -->
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_ynnZ9tl3diXNs5Tp0Pg3CBtjNKSphDY58LVwRUzpfuM.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+<script src="/sites/default/files/js/js_QNm8pvmgf8RVTX80DxAezIBuQwvaLFBT_0gu0mW5Yco.js"></script>
+
+      <script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=33&cb=1459574320"></script>
+</body>
+</html>

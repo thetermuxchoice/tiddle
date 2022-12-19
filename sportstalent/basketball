@@ -1,0 +1,1664 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+
+          <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KZ493PK');</script>
+      <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.caa.com/sportstalent/basketball" />
+<link rel="alternate" hreflang="en" href="https://www.caa.com/sportstalent/basketball" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="fabcf816-57bf-40a4-b46e-fbe8e8888ac8"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<link rel="shortcut icon" href="/themes/custom/caa/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.caa.com/sportstalent/basketball" />
+
+    <title>Basketball | CAA</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_XK0xw5LwZelOGGpmF_GxcIOzGFVl3tHHVOwmj2yxu4o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_hS8MlDO-FAL11woaLDkBo4p5CQGXo4afQcGlrtf9H0Q.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_NLD5UbnuV0gugBA-jekdwhJwL_TOG1O02JwgJVsX-lQ.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/316","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"azure_appinsights":{"instrumentationKey":"bd88541d-a1c6-4dd2-bf8b-64263436a487"},"user":{"uid":0,"permissionsHash":"66bebea6829df865aa945e802c0018d8692d1de6d202a0188e4cbd76d12278b1"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_A5nG9HgWS3Y-SjI27fZBw2lJ00KJDsNZjSg-vWesZko.js"></script>
+<script src="/modules/contrib/azure_appinsights/dist/js/azai.min.js?v=1.x"></script>
+<script src="https://use.typekit.net/gce7xzt.js"></script>
+<script src="/sites/default/files/js/js_g74xuDbN8b5rWKHEDaWhLXtJ9EN90wn9RqnSZViQfMQ.js"></script>
+
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  </head>
+          
+      
+          
+  <body class="page-sportstalent-basketball section-sportstalent role--anonymous loading-scene with-subnav no-sidebar">
+
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ493PK"
+                        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <!-- ______________________ HEADER _______________________ -->
+  
+  
+<header id="header" class="site-header "> 
+  <div class="site-header-container">
+    
+      <a href="/" title="" rel="home" class="logo" aria-role="button" aria-label="Home">
+      <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 149.78"><title>caa</title><path id="path2830" class="cls-1" d="M145.17,159.64c-1.81,0-3.64.05-5.45.18a74.92,74.92,0,1,0,69.18,113.61h63.51l13.28,32.45h27.86l13.28-32.45H390l13.5,32.45H430l-59.86-144H346L299.65,275.32,253.24,161.85H229.12l-38.17,91.06c-12.55,29.93-46.7,39.51-71.25,25.34a50.45,50.45,0,0,1,50.41-87.41,51,51,0,0,1,4.55,3l10.53-22.51c-.92-.59-1.89-1.12-2.84-1.67A74.19,74.19,0,0,0,145.17,159.64Zm95.92,37.22,21.29,52.08H219.44Zm117.07,0,21.65,52.08H336.87Z" transform="translate(-70 -159.64)"/></svg>
+    </a>
+  
+  
+  <a href="javascript:;" id="nav-trigger" class="nav-trigger " data-target="nav-overlay" tabindex="0" title="Open" aria-label="Menu" role="button" aria-controls="navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+  </a>
+  </div>
+
+</header>
+<!-- /#header -->
+
+<!-- Search overlay -->
+
+
+<!-- Menu overlay -->
+<div class="nav-overlay">
+  <div class="menu-container">
+
+    <nav class="global-nav">
+          
+
+
+        <ul>
+          <li>
+        <a href="javascript:void(0);" title="For Talent" target="_self" class=" " >
+         For Talent 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/sportstalent/baseball" title="Baseball" target="_self" class="linkTo " >
+         Baseball 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/basketball" title="Basketball" target="_self" class="linkTo " >
+         Basketball 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/caa-base" title="CAA Base" target="_self" class="linkTo " >
+         CAA Base 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caa-china" title="CAA China" target="_self" class="linkTo " >
+         CAA China 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/foundation-old" title="CAA Foundation" target="_self" class="linkTo " >
+         CAA Foundation 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/client-business-ventures" title="Client Business Ventures" target="_self" class="linkTo long-link" >
+         Client Business Ventures 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/coaches" title="Coaching" target="_self" class="linkTo " >
+         Coaching 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Entertainment Talent" target="_self" class=" " >
+         Entertainment Talent 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Comedy Touring" target="_self" class="linkTo " >
+         Comedy Touring 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/digital-media" title="Digital Media" target="_blank" class="linkTo " >
+         Digital Media 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/entertainment-endorsements-voiceovers" title="Endorsements &amp; Voiceovers" target="_self" class="linkTo long-link" >
+         Endorsements &amp; Voiceovers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/entertainment-talent/fashion" title="Fashion" target="_blank" class="linkTo " >
+         Fashion 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="http://www.caa-gbg.com/" title="Licensing" target="_blank" class="linkTo " >
+         Licensing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/motion-pictures" title="Motion Pictures" target="_self" class="linkTo " >
+         Motion Pictures 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Music" target="_self" class="linkTo " >
+         Music 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/publishing" title="Publishing" target="_self" class="linkTo " >
+         Publishing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caaspeakers" title="Speakers" target="_self" class="linkTo " >
+         Speakers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/television" title="Television" target="_self" class="linkTo " >
+         Television 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/theatre" title="Theatre" target="_self" class="linkTo " >
+         Theatre 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/entertainmenttalent/video-games" title="Video Games" target="_self" class="linkTo " >
+         Video Games 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/brands/brand-studio" title="Brand Studio" target="_blank" class="linkTo " >
+         Brand Studio 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/sportstalent/football" title="Football" target="_self" class="linkTo " >
+         Football 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/hockey" title="Hockey" target="_self" class="linkTo " >
+         Hockey 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Live Event Booking" target="_self" class=" " >
+         Live Event Booking 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/touring" title="Music and Comedy Touring" target="_self" class="linkTo long-link" >
+         Music and Comedy Touring 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caaspeakers" title="Speakers" target="_self" class="linkTo " >
+         Speakers 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/sportstalent/sports-endorsements" title="Sports Endorsements" target="_self" class="linkTo " >
+         Sports Endorsements 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/foundation" title="CAA Foundation" target="_self" class="linkTo " >
+         CAA Foundation 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="For Brands" target="_self" class=" " >
+         For Brands 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/brand-consulting" title="Brand Consulting" target="_self" class="linkTo " >
+         Brand Consulting 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caabrandmanagement" title="CAA Brand Management" target="_self" class="linkTo " >
+         CAA Brand Management 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/caa-china" title="CAA China" target="_self" class="linkTo " >
+         CAA China 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="https://www.caa.com/digital-media" title="Digital Media" target="_blank" class="linkTo " >
+         Digital Media 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="Partnership Sales" target="_self" class=" " >
+         Partnership Sales 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/entertainmenttalent/entertainment-endorsements-voiceovers" title="Entertainment Endorsements &amp; Voiceovers" target="_self" class="linkTo long-link" >
+         Entertainment Endorsements &amp; Voiceovers 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/music-brand-partnerships" title="Music Brand Partnerships" target="_self" class="linkTo long-link" >
+         Music Brand Partnerships 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sportstalent/sports-endorsements" title="Sports Endorsements" target="_self" class="linkTo " >
+         Sports Endorsements 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-property-sales" title="Sports Property Sales" target="_self" class="linkTo " >
+         Sports Property Sales 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="https://www.caa.com/brands/caa-brand-studio" title="CAA Brand Studio" target="_blank" class="linkTo " >
+         CAA Brand Studio 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="javascript:void(0);" title="For Enterprise" target="_self" class=" " >
+         For Enterprise 
+        </a>
+
+
+                          <ul>
+          <li>
+        <a href="/caa-icon" title="CAA ICON" target="_self" class="linkTo " >
+         CAA ICON 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/EBG" title="EBG" target="_self" class="linkTo " >
+         EBG 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/evolution-media-capital" title="Evolution Media Capital" target="_self" class="linkTo long-link" >
+         Evolution Media Capital 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/executive-search" title="Executive Search" target="_self" class="linkTo " >
+         Executive Search 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-licensing" title="Sports Licensing" target="_self" class="linkTo " >
+         Sports Licensing 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-media-rights" title="Sports Media Rights" target="_self" class="linkTo " >
+         Sports Media Rights 
+        </a>
+
+
+              </li>
+          <li>
+        <a href="/sports-property-sales" title="Sports Property Sales" target="_self" class="linkTo " >
+         Sports Property Sales 
+        </a>
+
+
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+
+        </nav>
+      <div class="overlay-footer">
+        <div class="homepage-ft">
+          
+
+<nav>
+        <ul>
+          <li>
+        <a href="/about-us" title="About">
+         About 
+        </a>
+
+              </li>
+          <li>
+        <a href="/careers" title="Careers">
+         Careers 
+        </a>
+
+              </li>
+          <li>
+        <a href="/contact-0" title="Contact">
+         Contact 
+        </a>
+
+              </li>
+        </ul>
+  
+
+</nav>
+
+        </div>
+      </div>
+  </div>
+
+
+  <div class="overlay-footer">
+    
+      </div>
+
+</div><!-- https://www.caa.com/sportstalent/basketball  -->
+
+<div class="loading"></div>
+
+  <!-- ______________________ MAIN _______________________ -->
+  <div id="main">
+      <section id="content">
+
+        <div id="content-header">
+
+          
+
+          
+          
+          
+        </div><!-- /#content-header -->
+
+        <div id="content-area">
+            <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+<article role="article" about="/sportstalent/basketball" class="node">
+
+  
+  <div class="content">
+    
+      <div>
+              <div>
+
+
+
+<section class="hero-container full_vh var1 bg-black mask-out " id="hero-carousel">
+
+	<div class="hero-text-container vertical-align">
+		<div class="gutter-container">
+
+							<header>
+					<div class="h8" data-aos="fade-up" data-aos-once="true" data-aos-delay="600"></div>
+				</header>
+			
+			
+							<h5 class="" data-aos="fade-up" data-aos-delay="600" data-aos-once="true">
+            <div>Results earn respect.</div>
+      </h5>
+			
+			
+							<h1 class="					headline-lrg
+								 " data-aos="fade-up" data-aos-offset="0" data-aos-delay="600" data-aos-once="true" >
+            <div>Basketball</div>
+      </h1>
+			
+			
+			
+			<!--  -->
+
+		</div>
+	</div>
+
+			<div class="preloader">
+									<img src="/sites/default/files/styles/thumbnail/public/2020-07/zion%20hero.jpg?itok=43tYJdRq" data-mobile="/sites/default/files/styles/thumbnail/public/2020-07/zion%20hero%20mobile.jpg?itok=uOGp5T2F">
+		</div>
+	
+	<div class="hero-image-container hero-mask " style="display:none;">
+					<div class="hero-scene scene-0">
+				<img src="/sites/default/files/styles/landscape/public/2020-07/zion%20hero.jpg?itok=84BZpBjT" data-desktop="/sites/default/files/styles/landscape/public/2020-07/zion%20hero.jpg?itok=84BZpBjT" data-mobile="/sites/default/files/styles/portrait/public/2020-07/zion%20hero%20mobile.jpg?itok=FZ8D0OV9" alt="" role="presentation">
+
+			</div>
+					<div class="hero-scene scene-1">
+				<img src="/sites/default/files/styles/landscape/public/2021-01/chris%20paul%20suns%20hero.jpg?itok=t0MOnViJ" data-desktop="/sites/default/files/styles/landscape/public/2021-01/chris%20paul%20suns%20hero.jpg?itok=t0MOnViJ" data-mobile="" alt="" role="presentation">
+
+			</div>
+					<div class="hero-scene scene-2">
+				<img src="/sites/default/files/styles/landscape/public/2022-10/GettyImages-1243755904.jpg?itok=N3wRWy2t" data-desktop="/sites/default/files/styles/landscape/public/2022-10/GettyImages-1243755904.jpg?itok=N3wRWy2t" data-mobile="/sites/default/files/styles/portrait/public/2022-10/GettyImages-1243755904%20copy.jpg?itok=zpFJGfGH" alt="" role="presentation">
+
+			</div>
+					<div class="hero-scene scene-3">
+				<img src="/sites/default/files/styles/landscape/public/2018-06/CAA-Basketball-DwyaneWade-HeroDesktop.jpg?itok=IwI3MGFX" data-desktop="/sites/default/files/styles/landscape/public/2018-06/CAA-Basketball-DwyaneWade-HeroDesktop.jpg?itok=IwI3MGFX" data-mobile="/sites/default/files/styles/portrait/public/2018-06/CAA-Basketball-DwyaneWade-HeroMobile.jpg?itok=ExMGhHod" alt="" role="presentation">
+
+			</div>
+			</div>
+
+		<div class="indicator-container">
+		<a href="javascript:void(0)" class="active"></a>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text text-module pad-tb bg-white   col-2" id="">
+	<div class="gutter-container">
+				<header>
+				<div class="h8" data-aos="fade-up">
+            <div>About CAA Basketball</div>
+      </div>
+		</header>
+				<div class="content-container">
+			<div class="offset-article">
+									<h4 data-aos="fade-up" data-aos-delay="100">
+            <div>The most respected team in the industry.</div>
+      </h4>
+				
+				<div class="jumbo-text-body">
+										<div data-aos="fade-up" data-aos-delay="100">
+						
+            <div><p>CAA Basketball is in the best position to help our clients and their families accomplish their goals, from draft day to post-career planning. Our agents work with players — from young talent to established veterans — to support all of their career ambitions with opportunities that extend far beyond the sport.</p>
+
+<p>Our strong relationships with iconic and emerging brands have allowed us to create record-setting endorsement deals for clients across the agency. As the world's leading talent agency, we have deep connections across film, television, broadcasting, music, publishing and digital. And through the CAA Foundation and other efforts, we support our clients' philanthropic and advocacy work.</p>
+</div>
+      
+					</div>
+																			</div>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text text-module service-offerings pad-tb bg-white col-2" id="">
+	<div class="gutter-container">
+				<header>
+				<div class="h8" data-aos="fade-up">
+            <div>What We Do</div>
+       </div>
+		</header>
+				<div class="content-container">
+			<div class="offset-article">
+									<h4 data-aos="fade-up">
+            <div>A 360-degree approach.</div>
+      </h4>
+				
+				<div class="jumbo-text-body">
+											<div data-aos="fade-up">
+															<h6 class="list-title" >​​​​​​​NBA Draft Preparation</h6>
+							
+															<div class="list-body-text"><p>We provide individually customized training programs to improve each player's&nbsp;strengths through drills that simulate pre-draft workouts.</p>
+</div>
+													</div>
+											<div data-aos="fade-up">
+															<h6 class="list-title" >NBA Draft Success</h6>
+							
+															<div class="list-body-text"><p>We are the&nbsp;most respected team of agents in the industry, whose experience and expertise will ensure clients and their families are in the best position to accomplish their draft goals.</p>
+</div>
+													</div>
+											<div data-aos="fade-up">
+															<h6 class="list-title" >Contract Negotiation</h6>
+							
+															<div class="list-body-text"><p>CAA Basketball’s ability to leverage information in the marketplace, coupled with our agents' longstanding relationships with team executives, sets us apart and ensures that every client is in the ideal position at the bargaining table.</p>
+</div>
+													</div>
+											<div data-aos="fade-up">
+															<h6 class="list-title" >Brand Building</h6>
+							
+															<div class="list-body-text"><p>Bringing the full strength of the agency to bear, we create off-court opportunities in endorsements, speaking engagements, philanthropy, and digital content.</p>
+</div>
+													</div>
+					
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+              <div>
+
+
+<section class="image-grid talent-photo pad-tb bg-white" id="">
+	<div class="gutter-container">
+
+							<div class="row">
+					<div class="col-md-12">
+							<h6 data-aos="fade-up" data-aos-offset="0">
+            <div>Our clients are among the best in the game.</div>
+      </h6>
+					</div>
+				</div>
+						<div class="images-container">
+				<div class="row">
+					<div class="targetrow">
+						<!-- Loop on entries -->
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Devin Booker</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Basketball-DevinBooker.jpg?itok=Q6UDEPuf" width="500" height="500" alt="Devin-Booker-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Devin Booker</div>
+									<hr />
+                    										<div class="talent-bio"><p>2020 NBA All-Star; No. 13 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jalen Brunson</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-10/GettyImages-1243803038%20copy.jpg?itok=c-Dg7s2_" width="500" height="500" alt="Jalen-Brunson-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jalen Brunson</div>
+									<hr />
+                    										<div class="talent-bio"><p></p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Robert Covington</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/GettyImages-1370676908%20cropped.jpg?itok=gmoPYgh0" width="500" height="500" alt="Robert-Covington-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Robert Covington</div>
+									<hr />
+                    										<div class="talent-bio"><p></p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Seth Curry</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/GettyImages-1370602482%20cropped.jpg?itok=TuvZuQmi" width="500" height="500" alt="Seth-Curry-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Seth Curry</div>
+									<hr />
+                    										<div class="talent-bio"><p></p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Paul George</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-01/GettyImages-1192191374_0.jpg?h=3e01c9ae&amp;itok=zA5ohakn" width="500" height="500" alt="Paul-George-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Paul George</div>
+									<hr />
+                    										<div class="talent-bio"><p>Six-time NBA All-Star; Five All-NBA Team Selections; Four NBA All-Defensive Team Selections;	No. 10 draft pick
+ 
+
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jalen Green</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/jalen%20green%20copy.jpg?itok=lgzq1f2I" width="500" height="500" alt="Jalen-Green-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jalen Green</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 2 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Tyrese Haliburton</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/GettyImages-1370136010%20cropped.jpg?itok=wKOM8fEu" width="500" height="500" alt="Tyrese-Haliburton-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Tyrese Haliburton</div>
+									<hr />
+                    										<div class="talent-bio"><p>2021 NBA All-Rookie First Team; No. 12 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Gary Harris</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/GettyImages-1238223367%20cropped.jpg?itok=zugxxGOz" width="500" height="500" alt="Gary-Harris-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Gary Harris</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 19 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jaden Ivey</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-07/GettyImages-1241768729%20copy.jpg?itok=gYDjSPHp" width="500" height="500" alt="Jaden-Ivey-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jaden Ivey</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 5 draft pick
+ </p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jaren Jackson Jr.</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-07/jaren%20jackson%20jr%20copy.jpg?itok=uQdF_j8o" width="500" height="500" alt="Jaren-Jackson-Jr-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jaren Jackson Jr.</div>
+									<hr />
+                    										<div class="talent-bio"><p>2019 NBA All-Rookie First Team; 2020 NBA Rising Star; No. 4 draft pick
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Kyle Kuzma</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/kyle%20kuzma%20copy.jpg?itok=RXmNmUgj" width="500" height="500" alt="Kyle-Kuzma-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Kyle Kuzma</div>
+									<hr />
+                    										<div class="talent-bio"><p>2019 NBA Rising Stars MVP; No. 27 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Donovan Mitchell</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-10/GettyImages-1430850801%20copy.jpg?itok=tCb00QER" width="500" height="500" alt="Donovan-Mitchell-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Donovan Mitchell</div>
+									<hr />
+                    										<div class="talent-bio"><p>2020 NBA All-Star; 2018 NBA All-Rookie First Team; Best Breakthrough Athlete ESPY Award 2018; No. 13 draft pick
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Chris Paul</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-01/GettyImages-1230385371%20copy.jpg?itok=SfnV8ebz" width="500" height="500" alt="Chris-Paul-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Chris Paul</div>
+									<hr />
+                    										<div class="talent-bio"><p>Ten-time NBA All-Star; Eight All-NBA Team Selections; Nine NBA All-Defensive Team Selections; President of the NBPA; No. 4 draft pick
+ 
+
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jordan Poole</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-07/GettyImages-1241188671%20copy.jpg?itok=LTHhg3lj" width="500" height="500" alt="Jordan-Poole-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jordan Poole</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 28 draft pick; 2022 NBA Champion</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Julius Randle</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-07/julius%20randle%20square.jpg?itok=OS4-7yry" width="500" height="500" alt="Julius-Randle-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Julius Randle</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 7 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>D&#039;Angelo Russell </span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-07/dangelo%20copy.jpg?itok=i-LPFm9x" width="500" height="500" alt="D&#039;Angelo-Russell-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">D&#039;Angelo Russell </div>
+									<hr />
+                    										<div class="talent-bio"><p>2019 NBA All-Star; 2016 NBA All-Rookie Second Team; No. 2 draft pick
+ 
+
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Karl-Anthony Towns</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2018-06/CAA-Basketball-KarlAnthonyTowns.jpg?itok=jsjwidlS" width="500" height="500" alt="Karl-Anthony-Towns-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Karl-Anthony Towns</div>
+									<hr />
+                    										<div class="talent-bio"><p>Two-time NBA All-Star; 2018 All-NBA Third Team; 2016 NBA First Team All-Rookie; 2016 NBA Rookie of the Year; No. 1 draft pick
+ 
+
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Jonas Valanciunas</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2021-10/Jonas%20Valanciunas%20copy.jpg?itok=S3xUV0CF" width="500" height="500" alt="Jonas-Valanciunas-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Jonas Valanciunas</div>
+									<hr />
+                    										<div class="talent-bio"><p>No. 5 draft pick
+ 
+</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Andrew Wiggins</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2022-02/GettyImages-1238489103%20cropped.jpg?itok=71Bctzv0" width="500" height="500" alt="Andrew-Wiggins-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Andrew Wiggins</div>
+									<hr />
+                    										<div class="talent-bio"><p>2022 NBA All-Star; 2015 NBA Rookie of the Year; No. 1 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+						
+															<div class="col-md-4 col-sm-6 col-xs-6">
+							
+
+							
+							<div class="talent-photo-tile tile-hover" data-type="talent" data-aos="fade-up" data-aos-delay="100">
+								<div class="talent-photo-tile-front">
+									<div class="h7"><span>Zion Williamson</span></div>
+                  
+<span >  <img src="/sites/default/files/styles/square/public/2020-07/zion1%20copy.jpg?itok=-e2DemW1" width="500" height="500" alt="Zion-Williamson-CAA-Basketball-photo-grid" typeof="foaf:Image" />
+
+
+</span>
+
+
+
+						 			<div class="talent-photo-tile-back">
+									<div class="h7">Zion Williamson</div>
+									<hr />
+                    										<div class="talent-bio"><p>2020 NBA Rising Star; No. 1 draft pick</p></div>
+								</div>
+					 				</div>
+								</div>
+
+								
+						 	</div>
+											</div>
+				</div>
+			</div>
+	</div>
+</section>
+</div>
+              <div>
+
+
+	
+
+<section class="pull-stats jumbo-text pad-tb bg-white" id="2781">
+	<div class="gutter-container">
+					<header>
+					<div class="h8" data-aos="fade">
+            <div>CAA Basketball by the Numbers</div>
+      </div>
+			</header>
+		
+		<div class="content-container">
+	<div class="mainstat var1">
+		<div class="row ">
+
+			<div class="col-md-5 col-sm-5 col-xs-12">
+									<h4 data-aos="fade">
+            <div>Draft + contract results</div>
+      </h4>
+							</div>
+
+			<div class="col-md-7 col-sm-7 col-xs-12">
+				
+				
+								  	<div class="cell" data-aos="fade">
+						<h5 data-aos="fade"></h5>
+
+						<h6 >
+														<div id="odometer" class="odometer" data-stat="61">0</div>
+															<span class="modifier">First-round picks</span>
+													</h6>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div class="content-container">
+	<div class="bulletlist var1">
+		<div class="row">
+			<div class="col-sm-5 col-md-5">
+				<h3 data-aos="fade"></h3>
+			</div>
+			<div class="col-sm-7 col-md-7">
+				<ul>
+																		<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="14">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Top-five draft picks</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="24">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Top-ten draft picks</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="19">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Max deals</span>
+							</li>
+															</ul>
+			</div>
+		</div>
+	</div>
+</div>
+		
+</div>
+</section>
+</div>
+              <div>
+
+
+	
+
+<section class="pull-stats jumbo-text pad-tb bg-white" id="33297">
+	<div class="gutter-container">
+					<header>
+					<div class="h8" data-aos="fade"></div>
+			</header>
+		
+		<div class="content-container">
+	<div class="mainstat var1">
+		<div class="row ">
+
+			<div class="col-md-5 col-sm-5 col-xs-12">
+									<h4 data-aos="fade">
+            <div>Client achievements</div>
+      </h4>
+							</div>
+
+			<div class="col-md-7 col-sm-7 col-xs-12">
+				
+				
+								  	<div class="cell" data-aos="fade">
+						<h5 data-aos="fade"></h5>
+
+						<h6 >
+														<div id="odometer" class="odometer" data-stat="46">0</div>
+															<span class="modifier">All-Star Appearances</span>
+													</h6>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div class="content-container">
+	<div class="bulletlist var1">
+		<div class="row">
+			<div class="col-sm-5 col-md-5">
+				<h3 data-aos="fade"></h3>
+			</div>
+			<div class="col-sm-7 col-md-7">
+				<ul>
+																		<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="25">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">All-NBA selections</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="10">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Championships</span>
+							</li>
+																								<li  data-aos="fade">
+								<span class="stat"><div id="odometer" class="odometer" data-stat="6">0</div></span><span class="bullet-stat-modifier"></span>
+								<span class="stat-text">Olympic gold medals</span>
+							</li>
+															</ul>
+			</div>
+		</div>
+	</div>
+</div>
+		
+</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text tout-module pad-tb bg-white col-2" id="">
+	<div class="gutter-container">
+					<header>
+				<div class="h8" data-aos="fade-up">
+            <div>Endorsements</div>
+      </div>
+			</header>
+				<div class="content-container">
+			<div class="offset-article">
+												<div class="jumbo-text-image-container" data-aos="fade-up">
+						<img src="/sites/default/files/styles/portrait/public/2018-06/CAA-Basketball-SportsEndorsements-PaulGeorge.png?itok=O6oHxGPY" data-desktop="/sites/default/files/styles/portrait/public/2018-06/CAA-Basketball-SportsEndorsements-PaulGeorge.png?itok=O6oHxGPY" data-mobile="" />	
+					</div>
+											<div class="jumbo-text-text-container">
+											<h4 data-aos="fade-up">Building your brand. 
+												</h4>
+					
+					<div class="jumbo-text-body">
+												<div  data-aos="fade-up">
+							
+            <div><p>CAA helps clients thrive in every area of their lives. Our dedicated sports endorsements group creates lucrative opportunities for clients, matching them with global brands across athletic apparel, beverages, technology, and more.</p>
+</div>
+      
+						</div>
+						
+													<a href="/sports-endorsements" class="btn "   data-aos="fade-up">
+															<span class="label">Sports Endorsements
+															</span>
+								
+
+															<span class="chev right">
+									<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 185.3 185.3" style="enable-background:new 0 0 185.3 185.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M0,51.7c0-2.7,1-5.5,3.1-7.6c4.2-4.2,11-4.2,15.2,0l74.3,74.4L167,44.1c4.2-4.2,11-4.2,15.2,0
+			c4.2,4.2,4.2,11,0,15.2l-81.9,81.9c-4.2,4.2-11,4.2-15.2,0L3.1,59.3C1,57.2,0,54.5,0,51.7z"/>
+	</g>
+</g>
+</svg>
+									
+								</span>
+							
+							</a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text tout-module pad-tb  col-2" id="">
+	<div class="gutter-container">
+					<header>
+				<div class="h8" data-aos="fade-up">
+            <div>Broadcasting</div>
+      </div>
+			</header>
+				<div class="content-container">
+			<div class="offset-article">
+												<div class="jumbo-text-image-container" data-aos="fade-up">
+						<img src="/sites/default/files/styles/portrait/public/2022-07/GettyImages-1240751278%20copy.jpg?h=fa80d5a9&amp;itok=9iqoamYB" data-desktop="/sites/default/files/styles/portrait/public/2022-07/GettyImages-1240751278%20copy.jpg?h=fa80d5a9&amp;itok=9iqoamYB" data-mobile="" />	
+					</div>
+											<div class="jumbo-text-text-container">
+											<h4 data-aos="fade-up">Making the most of your expertise. 
+												</h4>
+					
+					<div class="jumbo-text-body">
+												<div  data-aos="fade-up">
+							
+            <div><p>CAA's team of broadcasting agents helps secure opportunities for clients across all networks and platforms.</p>
+</div>
+      
+						</div>
+						
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="jumbo-text tout-module pad-tb bg-white col-2" id="">
+	<div class="gutter-container">
+					<header>
+				<div class="h8" data-aos="fade-up">
+            <div>Philanthropy</div>
+      </div>
+			</header>
+				<div class="content-container">
+			<div class="offset-article">
+												<div class="jumbo-text-image-container" data-aos="fade-up">
+						<img src="/sites/default/files/styles/portrait/public/2018-06/CAA-Basketball-Philanthropy-ChrisPaul.jpg?itok=ymzAXQee" data-desktop="/sites/default/files/styles/portrait/public/2018-06/CAA-Basketball-Philanthropy-ChrisPaul.jpg?itok=ymzAXQee" data-mobile="" />	
+					</div>
+											<div class="jumbo-text-text-container">
+											<h4 data-aos="fade-up">Helping you help others. 
+												</h4>
+					
+					<div class="jumbo-text-body">
+												<div  data-aos="fade-up">
+							
+            <div><p>With the CAA Foundation, we help clients make a difference in their communities and have an impact off the court.</p>
+</div>
+      
+						</div>
+						
+													<a href="/caa-foundation" class="btn "   data-aos="fade-up">
+															<span class="label">CAA Foundation
+															</span>
+								
+
+															<span class="chev right">
+									<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 185.3 185.3" style="enable-background:new 0 0 185.3 185.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M0,51.7c0-2.7,1-5.5,3.1-7.6c4.2-4.2,11-4.2,15.2,0l74.3,74.4L167,44.1c4.2-4.2,11-4.2,15.2,0
+			c4.2,4.2,4.2,11,0,15.2l-81.9,81.9c-4.2,4.2-11,4.2-15.2,0L3.1,59.3C1,57.2,0,54.5,0,51.7z"/>
+	</g>
+</g>
+</svg>
+									
+								</span>
+							
+							</a>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+</div>
+              <div>
+<section class="social-follow-us pad-tb bg-red" id="">
+	<div class="gutter-container">
+
+		<div class="content-container">
+	
+			<div class="social-container">
+				<span class="follow-us" data-aos="fade">Follow us:</span>
+				<ul>
+					
+											<li class="twitter-size" data-aos="fade"><a href="https://twitter.com/caa_basketball" target="_blank">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><title>Twitter</title>
+<style type="text/css">
+	.twitter{fill:#FFFFFF;}
+</style>
+<g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="twitter social-icon" d="M26,0A26,26,0,1,0,52,26,26,26,0,0,0,26,0ZM36.34,20.7q0,.34,0,.69A15.17,15.17,0,0,1,13,34.17a10.83,10.83,0,0,0,1.27.07A10.7,10.7,0,0,0,20.9,32a5.34,5.34,0,0,1-5-3.7,5.35,5.35,0,0,0,2.41-.09A5.34,5.34,0,0,1,14,22.93v-.07a5.31,5.31,0,0,0,2.42.67,5.34,5.34,0,0,1-1.65-7.12A15.14,15.14,0,0,0,25.8,22a5.34,5.34,0,0,1,9.09-4.87,10.68,10.68,0,0,0,3.39-1.29,5.35,5.35,0,0,1-2.35,3A10.66,10.66,0,0,0,39,17.94,10.84,10.84,0,0,1,36.34,20.7Z"/></g></g></svg>						</a></li>
+					
+											<li class="instagram-size" data-aos="fade"><a href="https://www.instagram.com/caa_basketball/" target="_blank"> 
+							<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 53.5 52.9" style="enable-background:new 0 0 53.5 52.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g>
+	<circle class="st0 social-icon" cx="26.8" cy="26.5" r="4.3"/>
+	<path class="st0 social-icon" d="M36.9,18.8c-0.2-0.6-0.5-1-1-1.5s-0.9-0.7-1.5-1c-0.5-0.2-1.1-0.4-2.4-0.4c-1.4-0.1-1.8-0.1-5.3-0.1
+		s-3.9,0-5.3,0.1c-1.3,0.1-2,0.3-2.4,0.4c-0.6,0.2-1,0.5-1.5,1s-0.7,0.9-1,1.5c-0.2,0.5-0.4,1.1-0.4,2.4C16,22.6,16,23,16,26.5
+		s0,3.9,0.1,5.3c0.1,1.3,0.3,2,0.4,2.4c0.2,0.6,0.5,1,1,1.5s0.9,0.7,1.5,1c0.5,0.2,1.1,0.4,2.4,0.4c1.4,0.1,1.8,0.1,5.3,0.1
+		s3.9,0,5.3-0.1c1.3-0.1,2-0.3,2.4-0.4c0.6-0.2,1-0.5,1.5-1s0.7-0.9,1-1.5c0.2-0.5,0.4-1.1,0.4-2.4c0.1-1.4,0.1-1.8,0.1-5.3
+		s0-3.9-0.1-5.3C37.3,20,37.1,19.3,36.9,18.8z M26.8,33.2c-3.7,0-6.7-3-6.7-6.7s3-6.7,6.7-6.7s6.7,3,6.7,6.7S30.5,33.2,26.8,33.2z
+		 M33.7,21.1c-0.9,0-1.6-0.7-1.6-1.6s0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6S34.6,21.1,33.7,21.1z"/>
+	<path class="st0 social-icon" d="M26.7,0.5c-14.4,0-26,11.6-26,26s11.6,26,26,26s26-11.6,26-26S41.1,0.5,26.7,0.5z M39.7,31.9
+		c-0.1,1.4-0.3,2.3-0.6,3.2c-0.3,0.9-0.8,1.6-1.5,2.3s-1.5,1.2-2.3,1.5s-1.8,0.5-3.2,0.6c-1.4,0.1-1.8,0.1-5.4,0.1
+		c-3.5,0-4,0-5.4-0.1s-2.3-0.3-3.2-0.6c-0.9-0.3-1.6-0.8-2.3-1.5s-1.2-1.5-1.5-2.3s-0.5-1.8-0.6-3.2c-0.1-1.4-0.1-1.8-0.1-5.4
+		c0-3.5,0-4,0.1-5.4s0.3-2.3,0.6-3.2c0.3-0.9,0.8-1.6,1.5-2.3s1.5-1.2,2.3-1.5s1.8-0.5,3.2-0.6c1.4-0.1,1.8-0.1,5.4-0.1
+		c3.5,0,4,0,5.4,0.1c1.4,0.1,2.3,0.3,3.2,0.6s1.6,0.8,2.3,1.5s1.2,1.5,1.5,2.3s0.5,1.8,0.6,3.2c0.1,1.4,0.1,1.8,0.1,5.4
+		C39.8,30,39.8,30.5,39.7,31.9z"/>
+</g>
+</svg>
+						</a></li>
+					
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+</section></div>
+          </div>
+  
+  </div><!-- /.content -->
+
+      <div class="links">
+      
+    </div><!-- /.links -->
+  
+</article><!-- /.node -->
+
+  </div>
+
+        </div>
+
+      </section><!-- /#content -->
+  </div><!-- /#main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+<footer id="footer">
+  <div class="content-container">
+    <div class="gutter-container">
+      
+      <div class="expanded-footer">
+        <h6>
+											Group listings
+									</h6>
+
+        <div class="footer-link-containers">
+          
+        </div>
+
+      </div>
+
+      <div class="footer-standard">
+				<div class="footer-logo-column">
+					<a href="/" title="" rel="home" class="logo">
+						<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 149.78">
+							<title>caa</title>
+							<path id="path2830" class="cls-1"
+								d="M145.17,159.64c-1.81,0-3.64.05-5.45.18a74.92,74.92,0,1,0,69.18,113.61h63.51l13.28,32.45h27.86l13.28-32.45H390l13.5,32.45H430l-59.86-144H346L299.65,275.32,253.24,161.85H229.12l-38.17,91.06c-12.55,29.93-46.7,39.51-71.25,25.34a50.45,50.45,0,0,1,50.41-87.41,51,51,0,0,1,4.55,3l10.53-22.51c-.92-.59-1.89-1.12-2.84-1.67A74.19,74.19,0,0,0,145.17,159.64Zm95.92,37.22,21.29,52.08H219.44Zm117.07,0,21.65,52.08H336.87Z"
+								transform="translate(-70 -159.64)" />
+						</svg>
+					</a>
+				</div>
+				        
+
+<nav class="overlay-footer">
+        <ul>
+                <li>
+        <a href="/about-us" title="About Us" >
+          About Us
+        </a>
+
+              </li>
+                <li>
+        <a href="/social-responsibility" title="Social Responsibility" >
+          Social Responsibility
+        </a>
+
+              </li>
+                <li>
+        <a href="/careers" title="Careers" >
+          Careers
+        </a>
+
+              </li>
+                <li>
+        <a href="/foundation" title="Foundation" >
+          Foundation
+        </a>
+
+              </li>
+                <li>
+        <a href="/privacy-policy" title="Privacy" >
+          Privacy
+        </a>
+
+              </li>
+                <li>
+        <a href="/terms-of-use" title="Terms" >
+          Terms
+        </a>
+
+              </li>
+                <li>
+        <a href="https://www.caa.com/legal/client-privacy-notice" title="Client Privacy Notice" >
+          Client Privacy Notice
+        </a>
+
+              </li>
+                <li>
+        <a href="https://www.caa.com/newsroom" title="Newsroom" >
+          Newsroom
+        </a>
+
+              </li>
+                <li>
+        <a href="/contact-us" title="Contact Us" >
+          Contact Us
+        </a>
+
+              </li>
+        </ul>
+  
+
+</nav>
+
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+</div><!-- /.layout-container -->
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_ynnZ9tl3diXNs5Tp0Pg3CBtjNKSphDY58LVwRUzpfuM.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
+<script src="/sites/default/files/js/js_j0psEsAqGqI5wRIPUv9Yz1LwaekmZfXlHDptPeYGh7Q.js"></script>
+
+      <script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=15&cb=30976328"></script>
+</body>
+</html>
